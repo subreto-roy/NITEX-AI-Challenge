@@ -33,11 +33,3 @@ The project follows a modular structure:
    - Ensure TensorFlow and other dependencies are correctly installed.
    - Modify the paths and filenames as needed.
 
-## Future Improvements
-
-- Experiment with different CNN architectures.
-- Fine-tune hyperparameters for better performance.
-- Explore advanced techniques for human-in-the-loop integration.
-
-Feel free to contribute and enhance the project!
-
