@@ -1,0 +1,5 @@
+Model Architecture:
+None
+
+Evaluation Metric (Accuracy): 0.958899974822998
+Additional insights or observations...
